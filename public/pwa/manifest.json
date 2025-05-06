@@ -1,6 +1,6 @@
 {
-  "name": "AdiNews",
-  "short_name": "AdiNews",
+  "name": "ASAPNews",
+  "short_name": "ASAPNews",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
